@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /backup*
+Disallow: /css*
+Disallow: /robots.txt
+Disallow: /google*
+Disallow: /js*
+Disallow: /node_modules*
+Disallow: /scss*
+Disallow: /vendor*
+Disallow: .gitignore
+Disallow: gulpfile.js
+Disallow: LICENSE
+Disallow: package*
+Disallow: README.md
+allow: /index.html

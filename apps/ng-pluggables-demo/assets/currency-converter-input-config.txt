@@ -1,0 +1,23 @@
+// TypeScript code
+const config = {
+    currencies: [{
+        key: 'INR',
+        display_name: 'Indian Rupees',
+        base: 'INR',
+        rate: 1
+    },
+    {
+        key: 'USD',
+        display_name: 'United States Dollar',
+        base: 'INR',
+        rate: 0.0139914041 // number to multiply with to convert it to base currency
+    }, 
+    ...............
+    ...............
+    ...............
+    ...............
+    ...............
+    ]
+};
+
+// NOTE: The component doesn't support different base currencies yet. So base should be same for all.
