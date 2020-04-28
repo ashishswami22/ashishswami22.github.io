@@ -1,10 +1,11 @@
 User-agent: *
 Disallow: /backup*
 Disallow: /css*
+Disallow: /img*
 Disallow: /robots.txt
 Disallow: /google*
 Disallow: /js*
-Disallow: /node_modules*
+Disallow: *node_modules*
 Disallow: /scss*
 Disallow: /vendor*
 Disallow: .gitignore
