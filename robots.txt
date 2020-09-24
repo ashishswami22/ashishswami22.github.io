@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /OLD*
+Disallow: /assets*
 Disallow: /backup*
 Disallow: /css*
 Disallow: /img*

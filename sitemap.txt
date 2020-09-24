@@ -1,9 +1,4 @@
 https://ashishswami22.github.io/
 https://ashishswami22.github.io/index.html
-https://ashishswami22.github.io/blog.html
-https://ashishswami22.github.io/blog2.html
-https://ashishswami22.github.io/blog3.html
-https://ashishswami22.github.io/blog4.html
-https://ashishswami22.github.io/blog5.html
 https://ashishswami22.github.io/apps/ng-pluggables-demo
 https://ashishswami22.github.io/apps/ng-pluggables-demo/index.html
